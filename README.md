@@ -1,0 +1,2 @@
+# BlogAssets
+Static resources
